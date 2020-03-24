@@ -1,6 +1,6 @@
 # taggelator
 
-1. Building the image
+1. Building the environment image
 ```bash
 docker build -t taggelator_env .
 ```
